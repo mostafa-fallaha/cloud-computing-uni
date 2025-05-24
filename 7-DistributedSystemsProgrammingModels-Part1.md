@@ -76,8 +76,8 @@
 6. **Reduce** – Combine data (e.g., sum) and return to one process.<br />
 7. **Allreduce** – Like Reduce, but result goes to all.<br />
   <img src="images/reduce_allreduce.png" width="300" /><br />
-8. **Scan** – Partial reduce (e.g., prefix sum).
-  <img src="images/scan.png" width="300" />
+8. **Scan** – Partial reduce (e.g., prefix sum).<br />
+  <img src="images/scan.png" width="300" /><br />
 
 ---
 
