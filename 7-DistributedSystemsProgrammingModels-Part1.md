@@ -65,17 +65,17 @@
 #### 🤝 **Collective Communication Patterns**:
 
 1. **Broadcast** – One process sends data to all.<br />
-  <img src="images/broadcast.png" width="300" /> 
-2. **Scatter** – One process sends unique data to each.
+  <img src="images/broadcast.png" width="300" /> <br />
+2. **Scatter** – One process sends unique data to each.<br />
 3. **Gather** – One process collects data from all.<br />
-  <img src="images/scatter_gather.png" width="300" />
+  <img src="images/scatter_gather.png" width="300" /><br />
 4. **Allgather** – All gather and share data with all.<br />
-  <img src="images/allgather.png" width="300" />
+  <img src="images/allgather.png" width="300" /><br />
 5. **Alltoall** – Everyone sends to everyone.<br />
-  <img src="images/alltoall.png" width="300" />
-6. **Reduce** – Combine data (e.g., sum) and return to one process.
+  <img src="images/alltoall.png" width="300" /><br />
+6. **Reduce** – Combine data (e.g., sum) and return to one process.<br />
 7. **Allreduce** – Like Reduce, but result goes to all.<br />
-  <img src="images/reduce_allreduce.png" width="300" />
+  <img src="images/reduce_allreduce.png" width="300" /><br />
 8. **Scan** – Partial reduce (e.g., prefix sum).<br />
   <img src="images/scan.png" width="300" />
 
